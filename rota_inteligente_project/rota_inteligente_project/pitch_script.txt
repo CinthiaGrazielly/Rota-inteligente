@@ -1,0 +1,7 @@
+Roteiro para vídeo pitch (até 4 minutos) - sugestão objetiva:
+1) Problema (20s): Apresente a Sabor Express e o desafio (rotas manuais, atrasos).
+2) Solução (40s): Mapear a cidade como grafo, agrupar pedidos com K-Means e usar A* + heurística para rotas por cluster.
+3) Demonstração (90s): Mostre imagens geradas (mapa, clusters, rotas) e explique em 1 minuto como o código encontra o caminho e calcula distância.
+4) Resultados e métricas (30s): Cite a métrica total de distância e como o agrupamento ajuda.
+5) Limitações e próximos passos (20s): VRP, tráfego em tempo real, integração com APIs de mapas e OR-Tools.
+6) Encerramento e call-to-action (10s): Link do repositório e próximos passos.
